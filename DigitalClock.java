@@ -19,7 +19,7 @@ class DigitalClock extends JFrame{
 
 void Compo(){
 		// Object
-	ic1 = new ImageIcon("E:/All Coding/Re-Create/Test v1/Day 4/Digital Clock/image/img1.png");
+	ic1 = new ImageIcon("/img1.png");
 	pic = new JLabel();
 	tm = new JLabel();
 	sd1 = new SimpleDateFormat("hh:mm:ss a");
