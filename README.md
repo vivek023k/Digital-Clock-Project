@@ -20,16 +20,6 @@ This project is created to practice Java programming, GUI development, and worki
 * **AWT**
 * **Date & Time API**
 
-## 📸 Project Preview
-
-*Add your project screenshot here.*
-
-```text
-Example:
-
-![Digital Clock Screenshot](screenshot.png)
-```
-
 ## 🚀 How to Run
 
 ### 1. Clone the Repository
